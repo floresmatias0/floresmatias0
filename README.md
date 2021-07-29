@@ -17,7 +17,7 @@
     alt="programmer"
     />
     <h2>Portfolio</h2>
-    <img src="assets/giphy.gif" alt="pagina web" width="80%"/>
+    <img src="assets/giphy.gif" alt="pagina web" width="80%"/></br>
     <a href="https://matias-flores.herokuapp.com/">Link</a>
 </div>
 <h2></h2>
