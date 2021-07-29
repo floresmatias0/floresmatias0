@@ -15,7 +15,6 @@
 <div>
     <img src="assets/linkedin.png" width="20px" alt="linkedin"/> 
     <a href="https://www.linkedin.com/in/matias-leandro-flores/">Linkedin</a></br>
-    <img src="assets/gmail.png" width="20px" alt="gmail"/> 
-    <p>floresmatias0@gmail.com</p>
+    <img src="assets/gmail.png" width="20px" alt="gmail"/> floresmatias0@gmail.com
     <div>Iconos diseñados por <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.es/" title="Flaticon">www.flaticon.es</a></div>
 </div>
