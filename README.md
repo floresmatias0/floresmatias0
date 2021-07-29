@@ -11,6 +11,8 @@
     alt="programmer"
     />
     <p>Mi nombre es Matias Flores tengo 27 años me recibi como Fullstack web developer en <a href="https://www.soyhenry.com/">Soy Henry</a> actualmente estoy estudiando Data Analytics para seguir creciendo en este maravilloso mundo de la tecnologia en este lugar vas a encontrar repositorios de varias pruebas o ideas que se me ocurren a lo largo del tiempo con respecto a paginas web desarrolladas en javascript con o sin react si tienes alguna duda o quieres contactar conmigo te dejo mis redes al final</p>
+</div>
+<div>
     <ul>
         <li><img src="assets/linkedin.png" width="20px" alt="linkedin"/> <a href="https://www.linkedin.com/in/matias-leandro-flores/">Linkedin</a></li>
         <li><img src="assets/gmail.png" width="20px" alt="gmail"/>floresmatias0gmail.com</li>
