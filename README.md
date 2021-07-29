@@ -1,8 +1,7 @@
 <div align="center">
     <img 
         src="assets/programmer-confort.jpg" 
-        width="100%" 
-        height="20px" 
+        height="50px" 
         style="border-radius: 15px;"
         alt="banner"
     />
