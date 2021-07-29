@@ -1,7 +1,5 @@
 ### Bienvenido a mi perfil 
-
-![Alt text](assets/programmer.gif?raw=true "Title")
-
-<p align="center">
-  <img src="assets/programmer.gif" width="350" title="hover text">
-</p>
+<div align="center">
+    <h1>Un poco sobre mi</h1>
+    <img src="assets/programmer.gif" width="150" style="border-radius: 15px;" alt="programmer">
+</div>
