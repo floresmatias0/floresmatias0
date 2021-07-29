@@ -2,7 +2,7 @@
     <img 
         src="assets/programmer-confort.jpg" 
         width="100%" 
-        heigth="20px" 
+        height="20px" 
         style="border-radius: 15px;"
         alt="banner"
     />
