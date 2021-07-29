@@ -2,11 +2,10 @@
     <img 
         src="assets/programmer-confort.jpg" 
         width="100%" 
-        heigth="30px" 
+        heigth="20px" 
         style="border-radius: 15px;"
         alt="banner"
     />
-    <h1>Bienvenido a mi perfil</h1>
     <h2>Un poco sobre mi</h2>
     <img 
     src="assets/programmer.gif" 
