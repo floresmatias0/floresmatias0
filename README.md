@@ -6,7 +6,7 @@
     />
     <h2>Un poco sobre mi</h2>
     <div align="center">
-    Mi nombre es Matias Flores tengo 27 años me recibi como Fullstack web developer en <a href="https://www.soyhenry.com/">Soy Henry</a> actualmente estoy estudiando Data Analytics para seguir creciendo en este maravilloso mundo de la tecnologia en este lugar vas a encontrar repositorios de varias pruebas o ideas que se me ocurren a lo largo del tiempo con respecto a paginas web desarrolladas en javascript con o sin react si tienes alguna duda o quieres contactar conmigo te dejo mis redes al final
+    Mi nombre es Matias Flores tengo 29 años me recibi como Fullstack web developer en <a href="https://www.soyhenry.com/">Soy Henry</a> actualmente trabajando en relacion de dependencia para una empresa muy importante en argentina, en este lugar vas a encontrar repositorios de varias pruebas o ideas que se me ocurren a lo largo del tiempo con respecto a paginas web desarrolladas en javascript con o sin react si tienes alguna duda o quieres contactar conmigo te dejo mis redes al final
     </div>
 </div>
 </br>
