@@ -6,28 +6,28 @@
     />
     <h2>Un poco sobre mi</h2>
     <div align="center">
-    Mi nombre es Matias Flores tengo 29 años me recibi como Fullstack web developer en <a href="https://www.soyhenry.com/">Soy Henry</a> actualmente trabajando en relacion de dependencia para una empresa muy importante en argentina, en este lugar vas a encontrar repositorios de varias pruebas o ideas que se me ocurren a lo largo del tiempo con respecto a paginas web desarrolladas en javascript con o sin react si tienes alguna duda o quieres contactar conmigo te dejo mis redes al final
+    Mi nombre es Matias Flores tengo 30 años me recibi como Fullstack web developer en <a href="https://www.soyhenry.com/">Soy Henry</a> actualmente trabajando en relacion de dependencia para una empresa muy importante en argentina, en este lugar vas a encontrar repositorios de varias pruebas o ideas que se me ocurren a lo largo del tiempo con respecto a paginas web desarrolladas en javascript con o sin react si tienes alguna duda o quieres contactar conmigo te dejo mis redes al final
     </div>
 </div>
 </br>
 <div align="center" width="50%">
     <img 
-    src="assets/programmer.gif" 
-    width="150"  
-    alt="programmer"
+        src="assets/programmer.gif" 
+        width="150"  
+        alt="programmer"
     />
     <h2>Portfolio</h2>
-    <img src="assets/giphy.gif" alt="pagina web" width="80%"/></br>
-    <a href="https://matias-flores.herokuapp.com/">Link</a>
+    <a href="https://matt-eight.vercel.app/es">Link</a>
 </div>
 <h2></h2>
-<div style="display:flex;justify-content:center;align-items:center;flex-direction:column;">
-    <div style="display:flex;justify-content:center;align-items:center;">
+<div>
+    <div>
         <img src="assets/linkedin.png" width="20px" alt="linkedin"/> 
         <a href="https://www.linkedin.com/in/matias-leandro-flores/">Linkedin</a></br>
     </div>
-    <div style="display:flex;justify-content:center;align-items:center;">
-        <img src="assets/gmail.png" width="20px" alt="gmail"/> floresmatias0@gmail.com
+    <div>
+        <img src="assets/gmail.png" width="20px" alt="gmail"/>
+        <p>floresmatias0@gmail.com</p>
     </div>
 </div>
 </br>
