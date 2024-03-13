@@ -21,7 +21,7 @@
     <a href="https://matias-flores.herokuapp.com/">Link</a>
 </div>
 <h2></h2>
-<div>
+<div style="display:flex;justify-content:center;align-items:center">
     <img src="assets/linkedin.png" width="20px" alt="linkedin"/> 
     <a href="https://www.linkedin.com/in/matias-leandro-flores/">Linkedin</a></br>
     <img src="assets/gmail.png" width="20px" alt="gmail"/> floresmatias0@gmail.com
