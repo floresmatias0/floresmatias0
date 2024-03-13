@@ -27,7 +27,7 @@
     </div>
     <div>
         <img src="assets/gmail.png" width="20px" alt="gmail"/>
-        <p>floresmatias0@gmail.com</p>
+        <span>floresmatias0@gmail.com</span>
     </div>
 </div>
 </br>
